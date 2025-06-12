@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\views\\toyonotoy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:views\\toyonotoy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\models\\formularioclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:models\\formularioclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\controllers\\toyonotoycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:controllers\\toyonotoycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\models\\enterprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:models\\enterprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\models\\requestdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:models\\requestdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|c:\\users\\jeanr\\source\\repos\\proyectosca\\toy_-_no_toy\\formchenchen\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E4D96E-3478-4614-85C0-3376AD26A939}|FormChenchen.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 408,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Views\\ToyoNoToy\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToyoNoToy\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Views\\ToyoNoToy\\Create.cshtml",
+              "RelativeToolTip": "Views\\ToyoNoToy\\Create.cshtml",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAAAFEBAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T18:03:42.804Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAawMgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-10T16:21:26.861Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enterprise.cs",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Models\\Enterprise.cs",
+              "RelativeDocumentMoniker": "Models\\Enterprise.cs",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Models\\Enterprise.cs",
+              "RelativeToolTip": "Models\\Enterprise.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:44:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestDetail.cs",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Models\\RequestDetail.cs",
+              "RelativeDocumentMoniker": "Models\\RequestDetail.cs",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Models\\RequestDetail.cs",
+              "RelativeToolTip": "Models\\RequestDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:36:17.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:39:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T17:21:20.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToyoNoToyController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Controllers\\ToyoNoToyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToyoNoToyController.cs",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Controllers\\ToyoNoToyController.cs",
+              "RelativeToolTip": "Controllers\\ToyoNoToyController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAawP0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:11:18.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioClass.cs",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Models\\FormularioClass.cs",
+              "RelativeDocumentMoniker": "Models\\FormularioClass.cs",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Models\\FormularioClass.cs",
+              "RelativeToolTip": "Models\\FormularioClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:07:27.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jeanr\\source\\repos\\ProyectosCA\\Toy_-_No_Toy\\FormChenchen\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T13:42:47.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
